@@ -3,4 +3,4 @@ View the dashboard at [Tableau Dashboard](https://public.tableau.com/views/Netfl
 
 [Dataset](https://public.tableau.com/app/resources/sample-data), Tv shows and movies available on Netflix as of 2019.
 
-I am from Malaysia, which mean Netflix was not a thing while growing up. I was only exposed to Netflix while doing my undergraduate study in Utah back in 2015-2019. After graduated and coming back to Malaysia, Netflix is the only website available, or at least one that does not required us Malaysian to pay in US Dollar. No Amazon Prime Video. No Hulu. No HBO Max. Netflix is the only to go. So, I am intrigued to know how does it fare since it only came to Malaysia not that long ago.
+I am from Malaysia, which means Netflix was not a thing while growing up. I was only exposed to Netflix while doing my undergraduate study in Utah in 2015-2019. After graduating and returning to Malaysia, Netflix is the only website available, or at least one that does not require us Malaysian to pay in US dollars. No Amazon Prime Video. No Hulu. No HBO Max. Netflix is the only to go. So, I am intrigued to know how it fares since it only came to Malaysia not long ago.
